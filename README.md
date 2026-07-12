@@ -142,10 +142,10 @@ This portfolio demonstrates proficiency in:
 
 ## 📬 Contact
 
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** your.email@example.com
-- **Google Scholar:** [Your Scholar URL, if applicable]
+- **GitHub:** https://github.com/anupamprakash722
+- **LinkedIn:** www.linkedin.com/in/anupam-prakash-bb51141a4
+- **Email:** anupamprakash722@gmail.com, d25161@students.iitmandi.ac.in
+- **Google Scholar:** https://scholar.google.com/citations?user=RvkAySMAAAAJ&hl=en
 
 ---
 
