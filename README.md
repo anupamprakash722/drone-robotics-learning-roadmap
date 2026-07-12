@@ -42,3 +42,91 @@ graph TD
     E -.-> L[Systems Integration]
     F -.-> M[Planning]
     G -.-> N[Real-World Deployment]
+
+    
+---
+
+## 🛠️ Technology Stack
+
+| Category | Technologies |
+|:---|:---|
+| **Language** | Python 3.8+, C++ (ROS2 nodes) |
+| **Mathematics** | NumPy, SciPy, SymPy |
+| **Control** | python-control, custom implementations |
+| **Optimization** | CVXPY, SciPy optimize |
+| **Visualization** | Matplotlib, Plotly |
+| **Middleware** | ROS2 Humble, Gazebo |
+| **Containerization** | Docker |
+| **Testing** | pytest, unittest |
+
+---
+
+## 🎯 Learning Philosophy
+
+I'm a Computer Science engineer by training (B.Tech + M.Tech in CSE) pursuing a PhD in AI and Robotics with a focus on drones. Mathematics and physics didn't come naturally to me — this roadmap documents my deliberate practice approach:
+
+1. **Code first, derive later** — implement concepts computationally to build intuition
+2. **One concept per project** — avoid cognitive overload
+3. **Simulate before flying** — master algorithms in Python before touching hardware
+4. **Document everything** — each repo has detailed READMEs with theory, equations, and results
+5. **Build in public** — share the journey, not just the destination
+
+---
+
+## 📊 My Research Context
+
+- **PhD Institution:** [Your University Name]
+- **Research Center:** Center for AI and Robotics
+- **Research Area:** Aerial Robotics / Drone Autonomy
+- **Advisor:** [Advisor Name, if you want to share]
+- **Research Focus:** [Brief description — e.g., "Autonomous navigation in GPS-denied environments" or "Reinforcement learning for aggressive drone maneuvers"]
+
+---
+
+## 🚀 How to Use This Roadmap
+
+### For Learners
+If you're on a similar journey, follow the projects in numbered order. Each repository has:
+- 📖 Detailed README with theory
+- 💻 Runnable code with clear instructions
+- 🧪 Unit tests verifying correctness
+- 📓 Jupyter notebooks for exploration
+
+### For Potential Collaborators
+Issues and feature requests are welcome on individual project repositories. If you find this roadmap valuable, consider ⭐ starring the repos.
+
+### For Recruiters / Professors
+This portfolio demonstrates proficiency in:
+- Mathematical modeling of dynamic systems
+- Classical and modern control theory
+- Probabilistic state estimation
+- Trajectory planning and optimization
+- Robot Operating System (ROS2)
+- Software engineering practices (testing, documentation, CI/CD)
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [@YOUR_USERNAME](https://github.com/[YOUR_USERNAME])
+- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [your.email@example.com]
+- **Google Scholar:** [Your Scholar URL, if applicable]
+
+---
+
+## 📄 License
+
+This meta-repository is licensed under MIT. Each linked project has its own license — refer to individual repositories for details.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=[YOUR_USERNAME]/drone-robotics-learning-roadmap&type=Date)](https://star-history.com/#[YOUR_USERNAME]/drone-robotics-learning-roadmap&Date)
+
+---
+
+<p align="center">
+  <i>Built with ☕ and determination during my PhD journey.</i>
+</p>
