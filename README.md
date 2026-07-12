@@ -75,10 +75,9 @@ I'm a Computer Science engineer by training (B.Tech + M.Tech in CSE) pursuing a 
 
 ## 📊 My Research Context
 
-- **PhD Institution:** [Your University Name]
+- **PhD Institution:** IIT Mandi
 - **Research Center:** Center for AI and Robotics
 - **Research Area:** Aerial Robotics / Drone Autonomy
-- **Advisor:** [Advisor Name, if you want to share]
 - **Research Focus:** [Brief description — e.g., "Autonomous navigation in GPS-denied environments" or "Reinforcement learning for aggressive drone maneuvers"]
 
 ---
@@ -114,16 +113,6 @@ This portfolio demonstrates proficiency in:
 - **Google Scholar:** [Your Scholar URL, if applicable]
 
 ---
-
-## 📄 License
-
-This meta-repository is licensed under MIT. Each linked project has its own license — refer to individual repositories for details.
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=[YOUR_USERNAME]/drone-robotics-learning-roadmap&type=Date)](https://star-history.com/#[YOUR_USERNAME]/drone-robotics-learning-roadmap&Date)
 
 ---
 
