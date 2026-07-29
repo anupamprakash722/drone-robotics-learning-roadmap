@@ -136,7 +136,6 @@ This portfolio demonstrates proficiency in:
 - Probabilistic state estimation
 - Trajectory planning and optimization
 - Robot Operating System (ROS2)
-- Software engineering practices (testing, documentation, CI/CD)
 
 ---
 
