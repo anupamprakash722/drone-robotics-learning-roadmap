@@ -2,7 +2,7 @@
 
 > *A structured, project-based journey from mathematical foundations to autonomous drone flight — documenting my PhD learning process at the Center for AI and Robotics.*
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/drone-robotics-learning-roadmap?style=social)](https://github.com/anupamprakash722/drone-robotics-learning-roadmap)
+[![GitHub stars](https://img.shields.io/github/stars/anupamprakash722/drone-robotics-learning-roadmap?style=social)](https://github.com/anupamprakash722/drone-robotics-learning-roadmap)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-orange.svg)
