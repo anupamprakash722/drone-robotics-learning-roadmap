@@ -50,9 +50,9 @@ graph TD
 
 | # | Project | Description | Concepts Mastered | Status |
 |---|---------|-------------|-------------------|--------|
-| 1 | `math-foundations-sandbox` | Interactive Python notebooks exploring 3D transformations, numerical integration, and probability | Linear algebra, ODE solvers, Gaussian distributions, NumPy | 🔄 In Progress |
-| 2 | `1d-drone-pid` | Minimal 1D quadcopter altitude simulator with PID control and gain tuning | PID tuning, dynamics simulation, sensor noise, anti-windup | ⏳ Planned |
-| 3 | `planar-quadcopter-lqr` | Nonlinear 2D quadcopter stabilized with LQR via symbolic linearization | State-space control, linearization, LQR, SymPy, controllability | ⏳ Planned |
+| 1 | `math-foundations-sandbox` | Interactive Python notebooks exploring 3D transformations, numerical integration, and probability | Linear algebra, ODE solvers, Gaussian distributions, NumPy | ✅ Completed |
+| 2 | `1d-drone-pid` | Minimal 1D quadcopter altitude simulator with PID control and gain tuning | PID tuning, dynamics simulation, sensor noise, anti-windup | ✅ Completed |
+| 3 | `planar-quadcopter-lqr` | Nonlinear 2D quadcopter stabilized with LQR via symbolic linearization | State-space control, linearization, LQR, SymPy, controllability | 🔄 In Progress |
 | 4 | `drone-ekf-estimation` | Extended Kalman Filter fusing noisy IMU and GPS for drone state estimation | EKF, sensor fusion, IMU model, bias estimation, NEES | ⏳ Planned |
 | 5 | `quadcopter-3d-cascaded` | Full 6-DOF quadcopter with quaternion kinematics and cascaded control | Quaternions, 3D dynamics, cascaded PID, trajectory tracking | ⏳ Planned |
 | 6 | `trajectory-optimization` | Minimum-snap trajectory generation via QP with collision avoidance | Quadratic programming, min-snap, potential fields, cvxpy | ⏳ Planned |
