@@ -110,7 +110,7 @@ I'm a Computer Science engineer by training (B.Tech + M.Tech in CSE) pursuing a 
 
 ## 📊 My Research Context
 
-- **PhD Institution:** IIT Mandi
+- **PhD Institution:** IIT Mandi and IIT Ropar
 - **Research Center:** Center for AI and Robotics
 - **Research Area:** Aerial Robotics / Drone Autonomy
 - **Research Focus:** Autonomous navigation in GPS-denied environments using visual-inertial odometry and deep reinforcement learning
